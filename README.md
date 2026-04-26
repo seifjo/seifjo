@@ -10,7 +10,9 @@
 - Flutter
 - Dart
 - Firebase
-- ESP32
+- HTML
+- CSS
+- Java Script
 - REST APIs
 - Git & GitHub
 
@@ -38,9 +40,35 @@ Features:
 - WiFi communication
 
 ---
+# Expense Tracker App
+
+A modern expense tracking mobile application built using Flutter.
+
+The app helps users manage their income and expenses, view transaction history, and analyze their spending habits.
+
+---
+
+## Features
+
+- Add income and expense transactions
+- View transaction history
+- Search transactions
+- Statistics and balance overview
+- Filter transactions (All / Today / Month / Year)
+- Clean dark UI design
+
+---
+
+## Built With
+
+- Flutter
+- Dart
+- Material UI
+
+---
 
 ## 📫 Contact Me
-Email: your@email.com
+Email: seifjo223@email.com
 
 <!--
 **seifjo/seifjo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
